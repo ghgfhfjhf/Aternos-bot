@@ -7,8 +7,8 @@ app.get('/', (req, res) => res.send('Bot is Running 24/7 on YOGamersSMP!'))
 app.listen(3000)
 
 const botArgs = {
-    host: 'YOGamersSMP.aternos.me',
-    port: 60060, // Aapka port yahan add kar diya hai
+    host: 'infernalcraftverse680.mcsh.io',
+    port: 25565, // Aapka port yahan add kar diya hai
     username: 'AFK_Bot', // Bot ka naam jo server par dikhega
     version: false // Version auto-detect ho jayega
 }
